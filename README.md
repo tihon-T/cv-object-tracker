@@ -15,5 +15,5 @@ A lightweight Computer Vision tool built with Python and OpenCV that tracks spec
 ## 📦 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ВАШ_NICKNAME/cv-object-tracker.git](https://github.com/ВАШ_NICKNAME/cv-object-tracker.git)
+   git clone [https://github.com/tihon-T/cv-object-tracker.git](https://github.com/tihon-T/cv-object-tracker.git)
    cd cv-object-tracker
